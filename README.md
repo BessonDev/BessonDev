@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, there Harold Besson</h1>
+<h1 align="center">Hi 👋, there Harold Besson 🇻🇪</h1>
 <h3 align="center">Venezuelan dev building efficient and scalable solutions. Always exploring the next tech frontier.</h3>
-![Bandera de Venezuela](https://em-content.zobj.net/source/microsoft-teams/363/flag-venezuela_1f1fb-1f1ea.png)
 
 - 🔭 I’m currently working on **POS from 0**
 
