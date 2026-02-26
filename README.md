@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, there Harold Besson 🇻🇪</h1>
+<h1 align="center">Hi 👋, there Harold Besson </h1> ![Venezuela](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/1x1/ve.png)
+
 <h3 align="center">Venezuelan dev building efficient and scalable solutions. Always exploring the next tech frontier.</h3>
 
 - 🔭 I’m currently working on **POS from 0**
