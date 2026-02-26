@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, there Harold Besson </h1> ![Venezuela](https://raw.githubusercontent.com)
+<h1 align="center">Hi 👋, there Harold Besson 😎</h1>
 
 <h3 align="center">Venezuelan dev building efficient and scalable solutions. Always exploring the next tech frontier.</h3>
 
