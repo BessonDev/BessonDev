@@ -1,3 +1,5 @@
+<img width="2560" height="1280" alt="bessondev" src="https://github.com/user-attachments/assets/52dc40e3-e5ed-415e-9ed8-1f3625747ebe" />
+
 <h1 align="center">Hi 👋, there Harold Besson 😎</h1>
 
 <h3 align="center">Venezuelan dev building efficient and scalable solutions. Always exploring the next tech frontier.</h3>
